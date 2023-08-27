@@ -1,0 +1,12 @@
+Application
+{
+    Contacts
+    {
+        Persistance
+    }
+}
+
+
+----
+allocation = การจัดสรร แจกจ่าย
+----

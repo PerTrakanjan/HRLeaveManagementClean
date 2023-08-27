@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KjEd5TdbSbY50k5xpZp3/sxY5bDrff54qizW8IrN1pU67Obs/FxoW3tQkd6w6BsNWy5FZPKSPufI0SjvLy9JA==",
+  "success": true,
+  "projectFilePath": "/Users/thanakrittrakanjan/Documents/DotNet/HRLeaveManagementClean/src/Core/HRLeaveManagement.Application/HRLeaveManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/thanakrittrakanjan/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
